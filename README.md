@@ -5,6 +5,7 @@ The dataset was released under the FOIL (The Freedom of Information Law) and mad
 by Chris Whong (https://chriswhong.com/open-data/foil_nyc_taxi/).
 
 #### Author: Yi Rong
+
 #### Date: 02/17/2021
 
 ---
@@ -17,9 +18,9 @@ by Chris Whong (https://chriswhong.com/open-data/foil_nyc_taxi/).
 
 # Other Documents
 
-* OUTPUT1: Task 1 large data results 
-* OUTPUT2: Task 2 large data results 
-* OUTPUT3: Task 3 large data results 
+* docs/OUTPUT1: Task 1 large data results 
+* docs/OUTPUT2: Task 2 large data results 
+* docs/OUTPUT3: Task 3 large data results 
 
 # How to run  
 
